@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mesouzavictor
-- 👀 I’m interested in Data Science and Phyton
-- 🌱 I’m currently learning Phyton
+- 👀 I’m interested in Data Engineering and Phyton
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? It's kinda easy, hit me up my email mesouzavitor@gmail.com
 
